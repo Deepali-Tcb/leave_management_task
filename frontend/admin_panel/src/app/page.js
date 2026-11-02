@@ -42,6 +42,15 @@ export default function Home() {
       reason: "Fever",
       status: "Pending",
     },
+     {
+      id: 103,
+      employee: "Sandeep",
+      type: "Casual Leave",
+      from: "08 Aug 2026",
+      to: "08 Aug 2026",
+      reason: "Fever",
+      status: "Pending",
+    },
   ];
 
   return (
